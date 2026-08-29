@@ -1,0 +1,49 @@
+h1 {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: rgb(255, 115, 0);
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+img {
+    margin: 15px;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: rgb(255, 115, 0);
+    margin: 15px;
+}
+
+p {
+    margin-left: 15px;
+}
+
+p,
+.ingredients,
+.steps {
+    font-family: 'Tahoma', sans-serif;
+    margin-bottom: 30px;
+}
+
+.homepage {
+    height: 20px;
+    width: 70px;
+    display: block;
+    background-color: rgb(255, 115, 0);
+    color: white;
+    text-align: center;
+    margin: 30px auto;
+    outline: 2px solid rgb(255, 115, 0);
+    text-decoration: none;
+}
+
+.recipes a {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: black;
+    text-decoration: none;
+}
+
+.recipes li {
+    margin: 10px;
+}
